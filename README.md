@@ -1,6 +1,7 @@
-## Detection of Deep Network Generated Images Using Disparities in Color Components
-----------------------------------------------
-***Code for the journal(["Detection of Deep Network Generated Images Using Disparities in Color Components"](https://www.semanticscholar.org/paper/Detection-of-Deep-Network-Generated-Images-Using-in-Li-Li/7804949c133d7308d828a94a7944d47c1f0ffe67))***
+# Detection of Deep Network Generated Images Using Disparities in Color Components
+
+**Code for the journal(["Detection of Deep Network Generated Images Using Disparities in Color Components"](https://www.semanticscholar.org/paper/Detection-of-Deep-Network-Generated-Images-Using-in-Li-Li/7804949c133d7308d828a94a7944d47c1f0ffe67))**
+
 ----------------
 
 **Main files:**
@@ -14,4 +15,4 @@
 **Link to the paper:**
 
 [1] Haodong Li, Bin Li, Shunquan Tan, and Jiwu Huang, **“Detection of deep network generated images using disparities in
-color components,”** arXiv preprint arXiv:1808.07276, 2018. ([Link to the paper](https://arxiv.org/pdf/1808.07276.pdf))
+color components”**, arXiv preprint arXiv:1808.07276, 2018. ([Link to the paper](https://arxiv.org/pdf/1808.07276.pdf))
