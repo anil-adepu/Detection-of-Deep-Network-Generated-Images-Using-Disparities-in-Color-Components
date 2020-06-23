@@ -1,6 +1,6 @@
-# Detection of Deep Network Generated Images Using Disparities in Color Components
+## Detection of Deep Network Generated Images Using Disparities in Color Components
 ----------------------------------------------
-**Code for the journal(["Detection of Deep Network Generated Images Using Disparities in Color Components"](https://www.semanticscholar.org/paper/Detection-of-Deep-Network-Generated-Images-Using-in-Li-Li/7804949c133d7308d828a94a7944d47c1f0ffe67))**
+***Code for the journal(["Detection of Deep Network Generated Images Using Disparities in Color Components"](https://www.semanticscholar.org/paper/Detection-of-Deep-Network-Generated-Images-Using-in-Li-Li/7804949c133d7308d828a94a7944d47c1f0ffe67))***
 ----------------
 
 **Main files:**
