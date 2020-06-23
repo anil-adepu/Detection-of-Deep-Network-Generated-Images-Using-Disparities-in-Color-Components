@@ -4,11 +4,11 @@
 ----------------
 
 **Main files:**
-1. 'featureGeneration.py': The 588-D feature feature generation code for the real and DNG image datasets as inputs.
-2. 'features.py': callable function container
-3. 'svmTrainTest.py': Model for one class classification of the feature set generated
-4. 'modelRc64.sav': Pre-trained model on the 64x64 image feature set.
-4. 'modelRc128.sav': Pre-trained model on the 128x128 image feature set.
+1. **'featureGeneration.py':** The 588-D feature feature generation code for the real and DNG image datasets as inputs.
+2. **'features.py':** callable function container
+3. **'svmTrainTest.py':** Model for one class classification of the feature set generated
+4. **'modelRc64.sav':** Pre-trained model on the 64x64 image feature set.
+4. **'modelRc128.sav':** Pre-trained model on the 128x128 image feature set.
 ----------------
 
 **Link to the paper:**
